@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261623034703",
+    "project_id": "sporapp-683cf",
+    "storage_bucket": "sporapp-683cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261623034703:android:1105accdc2df4d2618cb3a",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app_okul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUSb47wMZ5IJVAHacKYSwDNnNs78HtiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">261623034703</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWUSb47wMZ5IJVAHacKYSwDNnNs78HtiE</string>
+    <string name="google_app_id" translatable="false">1:261623034703:android:1105accdc2df4d2618cb3a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWUSb47wMZ5IJVAHacKYSwDNnNs78HtiE</string>
+    <string name="google_storage_bucket" translatable="false">sporapp-683cf.appspot.com</string>
+    <string name="project_id" translatable="false">sporapp-683cf</string>
+</resources>
